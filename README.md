@@ -1,5 +1,5 @@
 # 💫 About Me:
-iOS Developer🔭<br>More than 5 years of experience🤔<br>Also know: Java, Kotlin, Python, JS⚡
+iOS Developer🔭<br>More than 6 years of experience🤔<br>Also know: Java, Kotlin, Python, JS⚡
 
 
 ## 🌐 Socials:
